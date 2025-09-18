@@ -1,0 +1,2 @@
+# Netflix-Clone
+A Netflix-inspired landing page built with only HTML and raw CSS using semantic tags like header, nav, section, and footer. It features with flexbox and grid, and custom styling to replicate Netflix’s sleek, modern design.
